@@ -125,5 +125,5 @@ We've just scratched the surface in this tutorial, so please take a look at the 
 
 * [Browse Sample cards](https://adaptivecards.io/samples/) for inspiration
 * Use the [Schema Explorer](https://adaptivecards.io/explorer) to learn the available elements
-* Build a card using the [Interactive Visualizer](https://adaptivecards.io/visualizer/index.html?hostApp=Skype)
+* Build a card using the [Interactive Designer](https://adaptivecards.io/designer/)
 * [Get in touch](https://adaptivecards.io/connect) with any feedback you have
